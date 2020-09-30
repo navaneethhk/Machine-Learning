@@ -1,4 +1,0 @@
-This project is about predicting the air quality index of Bengaluru city using Relative humidity, Visibility, minimum & maximum sustainable wind speed as dependent variables.
-
-Data Collection: 
-Data has been scrapped from a weather forecasting website https://en.tutiempo.net/climate/01-2013/ws-432950.html for all the day from 2013 to 2019.
